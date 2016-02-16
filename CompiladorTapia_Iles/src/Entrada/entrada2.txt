@@ -1,0 +1,27 @@
+// * Variables globales
+int i,n,j;
+char c;
+double t;
+
+// * Programa principal
+void main() {
+	int i,j;
+	double k,l;
+
+	
+	i=0.32;
+	j=0;
+	k=9.665;
+	l=15.3;
+	while (i==10) {
+		
+		i=i+1;
+		j=i*10;
+		j=k+l;
+		k=l+j;
+		
+	}
+		
+	//Examen		
+	//TestExamen();	
+}

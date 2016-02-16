@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="C:/Users/CA/Documents/NetBeansProjects/Compilador/libs/introspector.jar"/>
+	<classpathentry kind="lib" path="C:/Users/CA/Desktop/proyectoCompiladores/Compiler-master/Compilador/tools/jflex/JFlex.jar"/>
+	<classpathentry kind="lib" path="C:/Users/CA/Downloads/byaccj1.15_win32.zip"/>
+	<classpathentry kind="lib" path="libs/introspector.jar"/>
+	<classpathentry kind="lib" path="D:/Google Drive/Politécnica/Semestre Sep-Feb 2015B/Programación II/WorkSpaces/wsPrg-2015B/Compilador/libs/introspector.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
